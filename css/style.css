@@ -306,7 +306,6 @@ textarea {
 
 #e .submit-btn {
   background-color: var(--primary-color);
-  display: inline;
   padding: 1rem;
   border-radius: 5px;
   cursor: pointer;
