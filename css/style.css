@@ -124,6 +124,7 @@ a {
 }
 
 #about .lead {
+  line-height: 1.6;
   color: #c8ece9;
   font-family: var(--content-font);
   letter-spacing: 0.15rem;
@@ -385,4 +386,5 @@ textarea {
   flex-direction: column;
   justify-content: center;
   padding: 1rem 5rem;
+  text-align: end;
 }
